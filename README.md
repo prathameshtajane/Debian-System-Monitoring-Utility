@@ -47,7 +47,8 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the proces
 
 ## Authors
 <a href=“linkedin.com/in/prathamesh-tajane”>Prathamesh Tajane </a>
-See also the list of [contributors](https://github.com/prathameshtajane/Debian-System-Monitoring-Utility/graphs/contributors)who participated in this project.
+
+See also the list of [contributors](https://github.com/prathameshtajane/Debian-System-Monitoring-Utility/graphs/contributors) who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
