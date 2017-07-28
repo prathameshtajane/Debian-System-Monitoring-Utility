@@ -20,10 +20,11 @@ To enable text alerts admin user have to sign up for the free Twilio service.Twi
 7. You can find this information on the Dashboard page when you are logged in to your Twilio account.
 
 #### Python Modules 
-1. <a href=“docs.python.org/2/library/subprocess.html”>Subprocess Package</a>
-2. <a href=“docs.python.org/2/library/time.html”>Time Package</a>
-3. <a href=“docs.python.org/2/library/threading.html”>threading package</a>
-4. <a href=“www.twilio.com/docs/quickstart/python/devenvironment#installing-virtualenv-with-python-24”>twilio.rest </a>
+
+1. [Subprocess Package](https://docs.python.org/2/library/subprocess.html)
+2. [Time Package](https://docs.python.org/2/library/time.html)
+3. [threading package](https://docs.python.org/2/library/threading.html)
+4. [twilio.rest](www.twilio.com/docs/quickstart/python/devenvironment#installing-virtualenv-with-python-24)
 
 ## Text Alert Snapshots
 ![Alt text](https://drive.google.com/file/d/0BzeLZmI8HMAwSU5PSkJYYmJhQ3c/view?usp=sharing “Snapshot 1”)
@@ -35,19 +36,18 @@ python systemMonitoringUtility.py
 ```
 
 ## Versioning
-We use <a href=“semver.org/”>SemVer</a> for versioning. For the versions available, see the <a href=“github.com/prathameshtajane/Debian-System-Monitoring-Utility/releases”>tags on this repository.</a>
+We use [SemVer](https://semver.org/)for versioning. For the versions available, see the [tags on this repository.](https://github.com/prathameshtajane/Debian-System-Monitoring-Utility/releases) 
 
 
 ## Reference
-1. <a href=“www.twilio.com/docs/”>Twilio api reference document.</a>
+1. [Twilio api reference document.](www.twilio.com/docs/)
 
 ## Contributors
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 <a href=“linkedin.com/in/prathamesh-tajane”>Prathamesh Tajane </a>
-See also the list of <a href=“
-://github.com/prathameshtajane/Debian-System-Monitoring-Utility/graphs/contributors”>contributors</a> who participated in this project.
+See also the list of [contributors](https://github.com/prathameshtajane/Debian-System-Monitoring-Utility/graphs/contributors)who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
