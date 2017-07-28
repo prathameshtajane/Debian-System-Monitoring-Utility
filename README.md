@@ -35,7 +35,7 @@ python systemMonitoringUtility.py
 ```
 
 ## Versioning
-We use <a href=“http://semver.org/”>SemVer</a> for versioning. For the versions available, see the <a href=“https://github.com/prathameshtajane/Debian-System-Monitoring-Utility/releases”>tags on this repository.</a>
+We use <a href=“semver.org/”>SemVer</a> for versioning. For the versions available, see the <a href=“github.com/prathameshtajane/Debian-System-Monitoring-Utility/releases”>tags on this repository.</a>
 
 
 ## Reference
@@ -46,7 +46,8 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the proces
 
 ## Authors
 <a href=“linkedin.com/in/prathamesh-tajane”>Prathamesh Tajane </a>
-See also the list of <a href=“https://github.com/prathameshtajane/Debian-System-Monitoring-Utility/graphs/contributors”>contributors</a> who participated in this project.
+See also the list of <a href=“
+://github.com/prathameshtajane/Debian-System-Monitoring-Utility/graphs/contributors”>contributors</a> who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
